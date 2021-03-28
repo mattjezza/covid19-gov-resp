@@ -21,6 +21,10 @@ The project is presented as:
 Other files in this repository:
 - `environment.yml` which defines the conda environment to run the notebook
 - this `README.md` file
+- Effectiveness-of-Government-Responses-to-Coronavirus.html (HTML version of
+the notebook)
+- Effectiveness-of-Government-Responses-to-Coronavirus.zip (HTML version of
+the notebook with a better table of contents and easier navigation)
 
 The Jupyter notebook is split into sections as follows:
 
