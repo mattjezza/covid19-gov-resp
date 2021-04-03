@@ -16,7 +16,7 @@ That is the main aim and motivation of this project.
 The project is presented as:
 
 - a Jupyter notebook `Effectiveness-of-Government-Responses-to-Coronavirus.ipynb`
-- a post on Medium (not yet published, but will appear at https://medium.com/@matt_chap)
+- a post on Medium https://matt-chap.medium.com/exploring-covid-19-mitigation-strategies-with-data-science-adf8847b3646
 
 Other files in this repository:
 - `environment.yml` which defines the conda environment to run the notebook
